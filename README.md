@@ -118,6 +118,6 @@ If you have any questions about front-end web development, feel free to <a href=
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[Bouaskaoun](https://github.com/AngelDavidRuizB)
 
-Last Edited on: 19/07/2022
+
