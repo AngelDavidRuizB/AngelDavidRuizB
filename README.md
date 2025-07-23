@@ -86,19 +86,6 @@ Hi, I'm Angel Ruiz!
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
-<br/>
 <!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
@@ -109,18 +96,7 @@ Hi, I'm Angel Ruiz!
 </p>
 <br/>
 -->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
 
 <table style="border: none">
   <tr>
@@ -128,16 +104,12 @@ Hi, I'm Angel Ruiz!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+If you have any questions about front-end web development, feel free to <a href="mailto:aruizba@unal.edu.co">contact me through email</a> me.
 
   </td>
   <td width="50%" valign="top">
 
 ## It's not perfect, isn't it?
-
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
